@@ -31,5 +31,6 @@ Análise do resultado acadêmico de estudantes em cotejo com seus hábitos
 
 ## 👤 Autor
 - Nome: Caio Sepúlveda
-- LinkedIn: 
+- LinkedIn: linkedin.com/in/caio-sepúlveda-4a2282282
 - GitHub: https://github.com/CaioSepulveda
+- E-mail: caiosepulveda@id.uff.br
