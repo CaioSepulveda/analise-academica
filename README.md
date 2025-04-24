@@ -18,7 +18,7 @@ Análise do resultado acadêmico de estudantes em cotejo com seus hábitos
 - [x] Análise exploratória (gráficos e estatísticas)
 
 
-## 📈 Principais Resultados / Insights
+## 📈 Insights
 
 - Fatores socioeconômicos não interferiram relevantemente no resultado acadêmicos destes estudantes.
 - A quantidade de tempo de estudo diário possui relação diretamente proporcional à nota final.
@@ -27,9 +27,10 @@ Análise do resultado acadêmico de estudantes em cotejo com seus hábitos
 
 ## 📂 Como acessar este projeto
 
-1. Baixe o arquivo de dados [Python_Análise_Acadêmica_dos_Estudantes](Python_Análise_Acadêmica_dos_Estudantes.ipynb) 
-2. Abra o notebook em Google Colab ou no seu computador.
-3. Rode cada célula para acompanhar a análise.
+1. Baixe o arquivo de dados [Python_Análise_Acadêmica_dos_Estudantes](Python_Análise_Acadêmica_dos_Estudantes.ipynb)
+2. Certifique-se de que o [dataset](student_habits_performance.csv) está no mesmo diretório do script.
+3. Abra o notebook em Google Colab ou no seu computador.
+4. Rode cada célula para acompanhar a análise.
 
 ## 👤 Autor
 - Nome: Caio Sepúlveda
