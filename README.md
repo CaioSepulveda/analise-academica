@@ -10,7 +10,7 @@ Análise do resultado acadêmico de estudantes em cotejo com seus hábitos
 
 ## 📊 Base de Dados
 - Fonte: https://www.kaggle.com/datasets/jayaantanaath/student-habits-vs-academic-performance
-- (student_habits_performance.csv)
+
 
 ## 🚀 O que foi feito
 - [x] Importação e limpeza dos dados
@@ -26,7 +26,7 @@ Análise do resultado acadêmico de estudantes em cotejo com seus hábitos
 
 ## 📂 Como acessar este projeto
 
-1. Baixe o arquivo de dados Python_Análise_Acadêmica_dos_Estudantes (Python_Análise_Acadêmica_dos_Estudantes.ipynb) 
+1. Baixe o arquivo de dados Python_Análise_Acadêmica_dos_Estudantes ('Python_Análise_Acadêmica_dos_Estudantes.ipynb') 
 2. Abra o notebook em Google Colab ou no seu computador.
 3. Rode cada célula para acompanhar a análise.
 
