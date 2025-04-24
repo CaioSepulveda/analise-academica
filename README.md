@@ -10,6 +10,7 @@ Análise do resultado acadêmico de estudantes em cotejo com seus hábitos
 
 ## 📊 Base de Dados
 - Fonte: https://www.kaggle.com/datasets/jayaantanaath/student-habits-vs-academic-performance
+- (student_habits_performance.csv)
 
 ## 🚀 O que foi feito
 - [x] Importação e limpeza dos dados
