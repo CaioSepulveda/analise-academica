@@ -1,4 +1,4 @@
-# analise-academica
+# 🎓 Análise Acadêmica 
 Análise do resultado acadêmico de estudantes em cotejo com seus hábitos 
 
 ## 📄 Descrição
